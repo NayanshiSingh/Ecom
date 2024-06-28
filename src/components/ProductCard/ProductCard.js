@@ -1,3 +1,4 @@
+
 import './ProductCard.css';
 import ReduxAddToCart from '../ReduxAddToCart';
 import { useRef, useState } from 'react';
